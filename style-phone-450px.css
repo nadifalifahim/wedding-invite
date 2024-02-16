@@ -12,7 +12,7 @@
   }
 
   .page-5 {
-    height: 80vh;
+    height: 90vh;
   }
 
   .page-1 .text-container {
@@ -52,8 +52,8 @@
   }
 
   .page-1 .text-container h1:nth-child(3) {
-    bottom: 1rem;
-    right: 7rem;
+    bottom: 2rem;
+    right: 8rem;
     font-size: 11rem;
   }
 
@@ -80,7 +80,7 @@
     height: 30vh;
   }
   .page-4 {
-    height: 70vh;
+    height: 80vh;
   }
 
   .page-6,
@@ -107,7 +107,7 @@
   }
 
   .page-3-phone-img-2 {
-    top: 200vh;
+    top: 210vh;
     right: -27%;
   }
 
@@ -175,7 +175,7 @@
   }
 
   .page-5 .holud-flowers-2 {
-    transform: translateY(5rem);
+    transform: translateY(0rem);
   }
 
   .page-5 .flower-container img:nth-child(1) {
@@ -186,7 +186,7 @@
 
   .page-5 .flower-container img:nth-child(1) {
     bottom: 0rem;
-    left: 10rem;
+    left: 0rem;
   }
 
   @keyframes flower-animate-1 {
@@ -224,7 +224,7 @@
   }
 
   .page-6 .flower-container {
-    top: 15%;
+    top: 10%;
     transform: scale(1.5);
   }
 
@@ -263,6 +263,6 @@
   }
 
   .break-ombre-blue {
-    height: 0vh;
+    height: 30vh;
   }
 }
